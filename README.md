@@ -54,9 +54,10 @@ mvn clean install
 3. Run:
 ```
  mvn spring-boot:run 
-- ```
+```
 
 ## Sample API Payloads
+
 - Add Customer
 
 ```
